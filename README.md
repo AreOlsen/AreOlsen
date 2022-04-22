@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Zolargium](https://github.com/SimonGoBrrr/ZolarGium)
 
-- 🌱 I’m currently learning **Penetration testing.**
+- 🌱 I’m currently studying **Penetration testing.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SimonGoBrrr?tab=repositories](https://github.com/SimonGoBrrr?tab=repositories)
 
