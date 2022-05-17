@@ -44,12 +44,12 @@ const laptop = "Macbook air M1 256GB";
 
 const mainComputer = {
     cpu : "AMD Ryzen-5 3600x",
-    gpu : "Gigabyte RX-5700xt OC 8GB",3
-    ram : "Corsair Vegeance DDR4 3600mhz 16GB"
+    gpu : "Gigabyte RX-5700xt OC 8GB",
+    ram : "Corsair Vegeance DDR4 3600mhz 16GB",
     mb : "MSI Tomahawk B450",
     psu : "Corsair rmx 750w",
     ssd : "Adata_xpg M2 512GB",
-    hdd : "Seagate Barracuda 2TB"
+    hdd : "Seagate Barracuda 2TB",
     os : "Windows 10 Pro"
 }
 
