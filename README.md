@@ -1,7 +1,7 @@
 # <p align="center">🎓 S.Brown 💻 The readme.  🎩 </p>
 <hr>
 ## <p align="center">📓general_Info:</p>
-<img src="./images/codingKid.gif" type="image/gif" height="250" align="right"/>
+<img src="./images/codingKid.gif" type="image/gif" height="250" width="375" align="right"/>
 
 ```javascript
 console.log("Hello, my name is Simon Brown.");
@@ -17,8 +17,8 @@ const simonbrown = {
 }
 console.log(simonbrown);
 ```
-
 <hr>
+
 ## <p align="center">🤙socialmedia:</p>
 <p align="center">
 <img src="https://img.shields.io/badge/Twitter-Brown69Simon-blue?style=for-the-badge&logo=appveyor">
@@ -26,6 +26,7 @@ console.log(simonbrown);
 <img src="https://img.shields.io/badge/Discord-That%20guy%232816-informational?style=for-the-badge&logo=appveyor">
 </p>
 <hr>
+
 ## <p align="center">📊stastics:</p> 
 <img src="https://github-readme-stats.vercel.app/api?username=SimonGoBrrr&show_icons=true&theme=synthwave" />
 <p align="left">
@@ -33,6 +34,7 @@ console.log(simonbrown);
 <img src="./images/thosearerookienumbers.gif" align="right" width="500">
 </p>
 <hr>
+
 ## <p align="center">🖥computerSpecs:</p>
 <img src="./images/epicHackor.gif" align="right" height="290">
 
