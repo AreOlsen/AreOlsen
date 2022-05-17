@@ -20,7 +20,7 @@ console.log(simonbrown);
 ```
 <hr>
 
-## <p align="center">🤙socialmedia:</p>
+## <p align="center">🤙socialMedia:</p>
 <p align="center">
 <img src="https://img.shields.io/badge/Twitter-Brown69Simon-blue?style=for-the-badge&logo=appveyor">
 <img src="https://img.shields.io/badge/Instagram-Brown69Simon-orange?style=for-the-badge&logo=appveyor">
@@ -28,7 +28,7 @@ console.log(simonbrown);
 </p>
 <hr>
 
-## <p align="center">📊stastics:</p> 
+## <p align="center">📊statistics:</p> 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=SimonGoBrrr&show_icons=true&theme=synthwave"/></p>
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SimonGoBrrr&theme=synthwave"/>
