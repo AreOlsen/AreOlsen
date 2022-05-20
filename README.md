@@ -2,7 +2,9 @@
 <hr>
 
 ## <p align="center">📓general_Info:</p>
-<img src="./images/progrmaing.gif" type="image/gif" height="239" width="825" align="center"/>
+<p align="center">
+<img src="./images/progrmaing.gif" type="image/gif" height="239" width="825" />
+</p>
 
 ```javascript
 console.log("Hello, my name is Simon Brown.");
@@ -18,6 +20,7 @@ const simonbrown = {
 }
 console.log(simonbrown);
 ```
+
 <hr>
 
 ## <p align="center">🤙socialMedia:</p>
