@@ -33,7 +33,7 @@ console.log(simonbrown);
 
 ## <p align="center">📊statistics:</p> 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=SimonGoBrrr&show_icons=true&theme=synthwave"/></p>
-<p align="left">
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SimonGoBrrr&theme=synthwave"/>
 <img src="./images/thosearerookienumbers.gif" align="right" width="500">
 </p>
