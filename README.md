@@ -2,7 +2,7 @@
 <hr>
 
 ## <p align="center">📓general_Info:</p>
-<img src="./images/codingKid.gif" type="image/gif" height="239" width="800" align="center"/>
+<img src="./images/progrmaing.gif" type="image/gif" height="239" width="825" align="center"/>
 
 ```javascript
 console.log("Hello, my name is Simon Brown.");
