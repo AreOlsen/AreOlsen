@@ -2,7 +2,7 @@
 <hr>
 
 ## <p align="center">📓general_Info:</p>
-<img src="./images/codingKid.gif" type="image/gif" height="239" width="375" align="right"/>
+<img src="./images/codingKid.gif" type="image/gif" height="239" width="800" align="center"/>
 
 ```javascript
 console.log("Hello, my name is Simon Brown.");
@@ -37,8 +37,10 @@ console.log(simonbrown);
 <hr>
 
 ## <p align="center">🖥computerSpecs:</p>
-<img src="./images/epicHackor.gif" align="right" height="290">
-
+<p align="center">
+    <img src="./images/epicHackor.gif" align="right" height="290" /> 
+    <img src="./images/shitcode.gif" align="left" height="290"/>
+</p>
 ```javascript
 const laptop = "Macbook air M1 256GB";
 
