@@ -44,11 +44,6 @@ console.log(simonbrown);
     <img src="./images/epicHackor.gif" align="right" width="400" height="290"/> 
     <img src="./images/shitcode.gif" align="left" width="400" height="290"/>
 </p>
-<hr>
-
-
-<br /><br /><br /><br /><br /><br /><br />
-
 
 
 ```javascript
