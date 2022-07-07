@@ -13,7 +13,7 @@ const simonbrown = {
     pronouns : "he" | "him",
     nationality: "Norwegian",
     age : 17,
-    personal_website : "simongobrr.github.io",
+    personal_website : "simongobrrr.github.io",
     interests : ["Game-Web-Development", "Cryptography", "Physics", "Mathematics"],
     code : ["Javascript", "HTML", "CSS", "C++", "C#", "Python"],
     tools : ["Node/express", "MongoDB", "TensorFlow", "Unity"]
