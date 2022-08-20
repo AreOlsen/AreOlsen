@@ -9,7 +9,7 @@
 ```javascript
 console.log("Hello, my name is Simon Brown.");
 const simonbrown = {
-    name : "simon_brown",
+    alias : "simon_brown",
     pronouns : "he" | "him",
     nationality: "Norwegian",
     age : 17,
