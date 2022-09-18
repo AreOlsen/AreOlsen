@@ -11,7 +11,7 @@ console.log("Hello, my name is Simon Brown.");
 const simonbrown = {
     alias : "simon_brown",
     pronouns : "he" | "him",
-    nationality: "Norwegian",
+    nationality: "British",
     age : 17,
     personal_website : "simongobrrr.github.io",
     interests : ["Game-Web-Development", "Cryptography", "Physics", "Mathematics"],
