@@ -8,7 +8,7 @@
 
 ```javascript
 console.log("Hello, my name is Are Olsen, sometimes known as Simon.");
-const simonbrown = {
+const areolsen = {
     alias : "are_olsen",
     pronouns : "he" | "him",
     nationality: "Norwegian",
@@ -18,13 +18,13 @@ const simonbrown = {
     code : ["Javascript", "HTML", "CSS", "C++", "C#", "Python"],
     tools : ["Node/express", "MongoDB", "TensorFlow", "Unity"]
 }
-console.log(simonbrown);
+console.log(are olsen);
 ```
 
 ## <p align="center">📊statistics:</p> 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=SimonGoBrrr&show_icons=true&theme=synthwave"/></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=AreOlsen&show_icons=true&theme=synthwave"/></p>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SimonGoBrrr&theme=synthwave"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AreOlsen&theme=synthwave"/>
 <img src="./images/thosearerookienumbers.gif" align="right" width="500">
 </p>
 <hr>
