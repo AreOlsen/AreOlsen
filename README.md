@@ -7,7 +7,7 @@
 </p>
 
 ```javascript
-console.log("Hello, my name is Simon Brown.");
+console.log("Hello, my name is Are Olsen, sometimes known as Simon.");
 const simonbrown = {
     alias : "are_olsen",
     pronouns : "he" | "him",
