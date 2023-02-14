@@ -1,4 +1,4 @@
-# <p align="center">🎓 S.Brown 💻 The readme.  🎩 </p>
+# <p align="center">🎓 A.Olsen 💻 The readme.  🎩 </p>
 <hr>
 
 ## <p align="center">📓general_Info:</p>
@@ -9,11 +9,11 @@
 ```javascript
 console.log("Hello, my name is Simon Brown.");
 const simonbrown = {
-    alias : "simon_brown",
+    alias : "are_olsen",
     pronouns : "he" | "him",
-    nationality: "British",
-    age : 17,
-    personal_website : "simongobrrr.github.io",
+    nationality: "Norwegian",
+    age : 18,
+    personal_website : "areolsen.github.io",
     interests : ["Game-Web-Development", "Cryptography", "Physics", "Mathematics"],
     code : ["Javascript", "HTML", "CSS", "C++", "C#", "Python"],
     tools : ["Node/express", "MongoDB", "TensorFlow", "Unity"]
@@ -22,15 +22,6 @@ console.log(simonbrown);
 ```
 
 <hr>
-
-## <p align="center">🤙socialMedia:</p>
-<p align="center">
-<img src="https://img.shields.io/badge/Twitter-Brown69Simon-blue?style=for-the-badge&logo=appveyor">
-<img src="https://img.shields.io/badge/Instagram-Brown69Simon-orange?style=for-the-badge&logo=appveyor">
-<img src="https://img.shields.io/badge/Discord-That%20guy%232816-informational?style=for-the-badge&logo=appveyor">
-</p>
-<hr>
-
 ## <p align="center">📊statistics:</p> 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=SimonGoBrrr&show_icons=true&theme=synthwave"/></p>
 <p align="center">
