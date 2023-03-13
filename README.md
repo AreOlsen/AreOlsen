@@ -16,7 +16,7 @@ const areolsen = {
     personal_website : "areolsen.github.io",
     interests : ["Game-Web-Development", "Cryptography", "Physics", "Mathematics"],
     code : ["Javascript", "HTML", "CSS", "C++", "C#", "Python"],
-    tools : ["Node/express", "MongoDB", "TensorFlow", "Unity"]
+    tools : ["Sveltekit", "Tailwindcss", "daisyUI", "Node/express", "MongoDB", "TensorFlow", "Unity"]
 }
 console.log(are olsen);
 ```
