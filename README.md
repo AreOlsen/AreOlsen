@@ -18,7 +18,7 @@ const areolsen = {
     code : ["Javascript", "HTML", "CSS", "C++", "C#", "Python"],
     tools : ["Sveltekit", "Tailwindcss", "daisyUI", "Node/express", "MongoDB", "TensorFlow", "Unity"]
 }
-console.log(are olsen);
+console.log(areolsen);
 ```
 
 ## <p align="center">📊statistics:</p> 
