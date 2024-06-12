@@ -12,8 +12,7 @@ const areolsen = {
     alias : "are_olsen",
     pronouns : "he" | "him",
     nationality: "Norwegian",
-    age : 18,
-    personal_website : "areolsen.github.io",
+    age : 19,
     interests : ["Game-Web-Development", "Cryptography", "Physics", "Mathematics"],
     code : ["Javascript", "HTML", "CSS", "C++", "C#", "Python"],
     tools : ["Sveltekit", "Tailwindcss", "daisyUI", "Node/express", "MongoDB", "TensorFlow", "Unity"]
