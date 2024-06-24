@@ -17,6 +17,7 @@ const areolsen = {
 }
 console.log(areolsen);
 ```
+<hr>
 
 ## <p align="center">📊statistics:</p> 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=AreOlsen&show_icons=true&theme=synthwave"/></p>
