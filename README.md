@@ -1,7 +1,7 @@
-# <p align="center">🎓 A.Olsen 💻 The readme.  🎩 </p>
+# <p align="center">🎓 A.Olsen 🎓 </p>
 <hr>
 
-## <p align="center">📓general_Info:</p>
+## <p align="center">📓general info:</p>
 <p align="center">
 <img src="./images/progrmaing.gif" type="image/gif" height="239" width="825" />
 </p>
@@ -9,13 +9,11 @@
 ```javascript
 console.log("Hello, my name is Are Olsen.");
 const areolsen = {
-    alias : "are_olsen",
-    pronouns : "he" | "him",
+    pronouns : "he/him",
     nationality: "Norwegian",
     age : 19,
-    interests : ["Game-Web-Development", "Cryptography", "Physics", "Mathematics"],
+    interests : ["Data Science", "Math", "Physics", "Pen testing"],
     code : ["Javascript", "HTML", "CSS", "C++", "C#", "Python"],
-    tools : ["Sveltekit", "Tailwindcss", "daisyUI", "Node/express", "MongoDB", "TensorFlow", "Unity"]
 }
 console.log(areolsen);
 ```
@@ -28,7 +26,7 @@ console.log(areolsen);
 </p>
 <hr>
 
-## <p align="center">🖥computerSpecs:</p>
+## <p align="center">🖥computer specs:</p>
 <p align="center">
     <img src="./images/epicHackor.gif" align="right" width="400" height="290"/> 
     <img src="./images/shitcode.gif" align="left" width="400" height="290"/>
@@ -43,7 +41,7 @@ const mainComputer = {
     cpu : "AMD Ryzen-5 3600x",
     gpu : "Gigabyte RX-5700xt OC 8GB",
     ram : "Corsair Vegeance DDR4 3600mhz 16GB",
-    mb : "MSI Tomahawk B450",
+    mb  : "MSI Tomahawk B450",
     psu : "Corsair rmx 750w",
     ssd : "Adata_xpg M2 512GB",
     hdd : "Seagate Barracuda 2TB",
