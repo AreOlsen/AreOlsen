@@ -1,5 +1,4 @@
 # <p align="center">🎓 A.Olsen 🎓 </p>
-<hr>
 
 ## <p align="center">📓general info:</p>
 <p align="center">
